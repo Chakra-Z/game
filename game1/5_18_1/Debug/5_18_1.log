@@ -1,0 +1,5 @@
+﻿  game.c
+  test.c
+f:\比特作业\5_18_1\5_18_1\test.c(25): warning C4013: “game”未定义；假设外部返回 int
+  正在生成代码...
+  5_18_1.vcxproj -> F:\比特作业\5_18_1\Debug\5_18_1.exe
